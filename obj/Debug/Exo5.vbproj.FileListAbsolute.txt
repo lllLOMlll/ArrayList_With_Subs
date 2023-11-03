@@ -1,0 +1,11 @@
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\bin\Debug\Exo5.exe.config
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\bin\Debug\Exo5.exe
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\bin\Debug\Exo5.pdb
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\bin\Debug\Exo5.xml
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.vbproj.AssemblyReference.cache
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.Resources.resources
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.vbproj.GenerateResource.cache
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.vbproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.exe
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.xml
+C:\Users\louis\source\repos\Visual Programming 1\Exos\Exo5\obj\Debug\Exo5.pdb
